@@ -4,7 +4,7 @@ Live Demo
 Run locally using Streamlit:
 python -m streamlit run app.py
 Then open:
-http://localhost:8501
+https://zbrrpsjjxcf5fae652upjn.streamlit.app/
 
 Project Overview
 Spam messages are a major problem in communication systems such as email, SMS, and social media. This project uses machine learning and text vectorization to automatically detect spam messages.
