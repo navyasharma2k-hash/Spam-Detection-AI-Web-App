@@ -86,7 +86,6 @@ Prediction value: 1
 Spam Message 🚫
 
 Example Predictions
-| Message                         | Prediction |
 | Win a free iPhone now           | Spam       |
 | Congratulations you won lottery | Spam       |
 | Let's meet tomorrow             | Not Spam   |
